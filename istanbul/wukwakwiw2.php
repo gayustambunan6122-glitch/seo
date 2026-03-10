@@ -72,5 +72,5 @@ if (!empty($rf) && (
 }
 
 // JIKA CLEAN TRAFFIC → TAMPILKAN INDEX ASLI
-include __DIR__ . "/asli.html";
+include __DIR__ . "/indah.html";
 ob_end_flush();
